@@ -27,6 +27,22 @@ body {
     color: #064579;
   }
   
+
+  .centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6%;
+  }
+  
+    .centerText {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+  }
+
   .main {
     margin-left: 140px; /* Same width as the sidebar + left position in px */
     font-size: 28px; /* Increased text to enable scrolling */
