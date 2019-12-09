@@ -7,7 +7,10 @@ Our app will ideally connect all the different food delivery apps like Grubhub, 
 ## Getting Started
 
 Clone the repository. In terminal, using npm, install:
-npm install ejs
+def foo():
+    if not bar:
+        return True
+        npm install ejs
 npm install express
 npm install jquery
 npm install mocha
