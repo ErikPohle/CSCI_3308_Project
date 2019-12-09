@@ -1,4 +1,4 @@
-# Project Title
+# Hunger Null
 
 For the everyday person who wants to get food delivered, Hunger: NULL is an app that connects different food delivery services together, so you can easily view all available options without having to check multiple apps.
 <br>
@@ -23,7 +23,7 @@ npm install should
 <br>
 From there, navigate to the folder where you cloned to and edit the server.js. Uncomment the local testing port and comment out the proccess port (so you know where the websites being hosted). In terminal, start the node server with "node server.js"
 
-## Running the tests
+## Running Unit Tests
 
 To run the unit tests, navigate in terminal to the project folder and type "npm test"
 
