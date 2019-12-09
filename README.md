@@ -30,6 +30,8 @@ To run the unit tests, navigate in terminal to the project folder and type "npm 
 ## Deployment
 
 http://hungernulllive.herokuapp.com/
+<a href="http://hungernulllive.herokuapp.com/" target="_blank">example</a>
+
 <br>
 To deploy, comment back in the app.listen(PROCESS.ENV.PORT) and comment out the other port.
 
