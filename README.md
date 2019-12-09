@@ -37,9 +37,9 @@ To deploy, comment back in the app.listen(PROCESS.ENV.PORT) and comment out the 
 
 * **Erik Pohle** - *JavaScript, HTML, Unit Tests, Heroku Deploy, Home Page*
 <br>
-* **Anand Zupa** - *Database Integration* *
+ **Anand Zupa** - *Database Integration* *
 <br>
-* **Erik Pohle** - *CSS, About Page, Team Members Page*
+ **Matt Wu** - *CSS, About Page, Team Members Page*
 <br>
 
 ## Acknowledgments
