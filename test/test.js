@@ -15,10 +15,6 @@ app.get('/Mcdonalds', function(req, res) {
   res.status(200).json({ name: 'Mcdonalds Menu' });
 });
 
-app.get('/Mcdonalds', function(req, res) {
-  res.status(200).json({ name: 'Mcdonalds Menu' });
-});
-
 app.get('/Qdoba', function(req, res) {
   res.status(200).json({ name: 'Qdoba Menu' });
 });
