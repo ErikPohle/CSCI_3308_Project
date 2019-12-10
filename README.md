@@ -5,55 +5,55 @@ For the everyday person who wants to get food delivered, Hunger: NULL is an app 
 Our app will ideally connect all the different food delivery apps like Grubhub, Doordash, Postmates etc. in one app. This means that all the restaurants that deliver in your city will be easy to see and pick from. The app will also have basic searchability, filtering capabilities, and links to restaurant websites for more information.
 
 ## Project Structure
-resources
-    ---- css
-            ---- style.css - style css file for entire project
-    ---- img - contains images for all restauraunts
-            ---- bossladypizza.png 
-            ---- cafemexicali.png
-            ---- chipotle.png
-            ---- cosmos.png
-            ---- dominos.png
-            ---- fiveguys.png
-            ---- illegalpetes.png
-            ---- mcdonalds.png
-            ---- pastajays.png
-            ---- pizzahut.png
-            ---- potbelly.png
-            ---- qdoba.png
-            ---- subway.png
-            ---- thaiavenue.png
-            ---- wendys.png
-    ---- js - contains scripts for javascript
-            ---- queries.js - queries to access database
-            ---- script.js - overall site javascript (populate pages, cards, etc)
-test
-    ---- test.js - contains unit tests (run with "npm test")
-views
-    ---- pages - contains ejs pages to be rendered by server
-            ---- about.ejs
-            ---- cafemexicali.js
-            ---- cosmos.ejs
-            ---- dominos.ejs
-            ---- fiveguys.ejs
-            ---- index.ejs
-            ---- mcdonalds.ejs
-            ---- pizzahut.ejs
-            ---- potbelly.ejs
-            ---- qdoba.ejs
-            ---- subway.ejs
-            ---- team_members.ejs
-            ---- wendys.ejs
-    ---- partials - contains partial ejs sites to be used
-            ---- footer.ejs
-            ---- header.ejs
-            ---- menu.ejs
-Hunger_Database.sql - database of menu items
-package-lock.json
-package.json
-publishConfig.txt
-README.md
-server.js - start point of hunger: null
+resources <br>
+    ---- css <br>
+            ---- style.css - style css file for entire project <br>
+    ---- img - contains images for all restauraunts <br>
+            ---- bossladypizza.png  <br>
+            ---- cafemexicali.png <br>
+            ---- chipotle.png <br>
+            ---- cosmos.png <br>
+            ---- dominos.png <br>
+            ---- fiveguys.png <br>
+            ---- illegalpetes.png <br>
+            ---- mcdonalds.png <br>
+            ---- pastajays.png <br>
+            ---- pizzahut.png <br>
+            ---- potbelly.png <br>
+            ---- qdoba.png <br>
+            ---- subway.png <br>
+            ---- thaiavenue.png <br>
+            ---- wendys.png <br>
+    ---- js - contains scripts for javascript <br>
+            ---- queries.js - queries to access database <br>
+            ---- script.js - overall site javascript (populate pages, cards, etc) <br>
+test <br>
+    ---- test.js - contains unit tests (run with "npm test") <br>
+views <br>
+    ---- pages - contains ejs pages to be rendered by server <br>
+            ---- about.ejs <br>
+            ---- cafemexicali.js <br>
+            ---- cosmos.ejs <br>
+            ---- dominos.ejs <br>
+            ---- fiveguys.ejs <br>
+            ---- index.ejs <br>
+            ---- mcdonalds.ejs <br>
+            ---- pizzahut.ejs <br>
+            ---- potbelly.ejs <br>
+            ---- qdoba.ejs <br>
+            ---- subway.ejs <br>
+            ---- team_members.ejs <br>
+            ---- wendys.ejs <br>
+    ---- partials - contains partial ejs sites to be used <br>
+            ---- footer.ejs <br>
+            ---- header.ejs <br>
+            ---- menu.ejs <br>
+Hunger_Database.sql - database of menu items <br>
+package-lock.json <br>
+package.json <br>
+publishConfig.txt <br>
+README.md <br>
+server.js - start point of hunger: null <br>
 
 
 ## Getting Started
