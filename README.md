@@ -6,7 +6,7 @@ Our app will ideally connect all the different food delivery apps like Grubhub, 
 
 ## Project Structure
 resources <br>
-&nbsp    ---- css <br>
+&nbsp;    ---- css <br>
             ---- style.css - style css file for entire project <br>
     ---- img - contains images for all restauraunts <br>
             ---- bossladypizza.png  <br>
