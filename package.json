@@ -19,11 +19,5 @@
     "devDependencies": {
         "supertest": "^4.0.2"
     },
-    "publishConfig": {
-        "registry":"https://npm.pkg.github.com/"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ErikPohle/CSCI_3308_Project.git"
-    }
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
