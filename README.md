@@ -5,6 +5,7 @@ For the everyday person who wants to get food delivered, Hunger: NULL is an app 
 Our app will ideally connect all the different food delivery apps like Grubhub, Doordash, Postmates etc. in one app. This means that all the restaurants that deliver in your city will be easy to see and pick from. The app will also have basic searchability, filtering capabilities, and links to restaurant websites for more information.
 
 ## Project Structure
+node_modules <br>
 resources <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ---- css <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           ---- style.css - style css file for entire project <br>
